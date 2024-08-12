@@ -1,0 +1,22 @@
+ab ek route bnao jisme ek post ek user bn jaye by default - data association
+
+***Routes***
+/route pr login and signup hoga
+
+/profile pr apko apki profile dikhegi and saved posts dikhegi, aur ek uploaded section hoga jo abhi nhi bna rhe
+
+/feed pr sari images
+
+/click krke image open hogi and save kr skte h
+
+/noard/:boardname poora board dikhega
+
+for- passport - npm i passport passport-local passport-local-mongoose mongoose express-session
+
+
+npm i connect-flash - to send flash msgs to show error like wrong credentials
+
+npm i uuid multer - 2 packages
+uuid - we get unique name for each file like 65fxeu when we download any picture
+
+multer - helps to upload any image
