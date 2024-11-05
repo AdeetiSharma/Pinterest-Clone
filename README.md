@@ -1,1 +1,1 @@
-# Instagram-Clone
+Pinterest Clone
